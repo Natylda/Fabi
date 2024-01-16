@@ -19,11 +19,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks Light" src="Imagem do WhatsApp de 2024-01-15 à(s) 18.54.43_1be2a748.jpg" width="100%">
-  <img alt="projeto DevLinks Dark" src="Imagem do WhatsApp de 2024-01-15 à(s) 18.55.38_601c30df.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
